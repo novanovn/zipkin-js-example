@@ -1,0 +1,3 @@
+{"level":"info","message":"Frontend listening on port 8085!","timestamp":"2017-08-24T06:26:58.536Z"}
+{"serviceName":"frontend","TraceId":"2c97a4bac4820ef8","SpanId":"2c97a4bac4820ef8","level":"info","message":"Hello distributed log files!","timestamp":"2017-08-24T06:27:02.990Z"}
+{"serviceName":"backend","TraceId":"2c97a4bac4820ef8","SpanId":"7a0eff44fc42fde9","level":"info","message":"Hello distributed log files!","timestamp":"2017-08-24T06:27:02.977Z"}
